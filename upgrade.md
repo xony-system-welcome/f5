@@ -24,3 +24,9 @@ Please kindly prepare the lab starting from tomorrow, and Herald Lam will assist
 Download EUD and OVA
 https://downloads.f5.com/esd/productlines.jsp
 
+x
+
+Description
+localhost: root defualt
+
+https://support.f5.com/csp/article/K13127
